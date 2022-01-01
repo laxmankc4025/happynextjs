@@ -10,7 +10,7 @@ export default function Footer() {
         >
           © 2022 Copyright:
           <Link href="http://localhost:3000/">
-            <a className="text-gray-800" href="http://localhost:3000/">
+            <a className="text-gray-800" href="https://laxnax.netlify.app/">
               Localhost
             </a>
           </Link>
